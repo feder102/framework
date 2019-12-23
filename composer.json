@@ -27,6 +27,7 @@
         "siu-toba/ssl-cert-utils": "~1.0",
         "siu-toba/structures_graph": "^1.1.1.1",
         "siu/arai-json-migrator": "~1.0",
+<<<<<<< HEAD
         "siu/manejador-salida-toba": "~1.1",
         "siu/security-multitool": "~1.1",
         "symfony/yaml": "~4.4",
@@ -35,6 +36,12 @@
     "conflict": {
         "siu/arai-cli": "<3.0.0",
         "siu/interfaces-manejador-salida-toba": "<1.2.0"
+=======
+        "vlucas/phpdotenv": "~3.6",
+        "ioncube/php-openssl-cryptor": "dev-master",
+        "siu/manejador-salida-toba" : "~1.1",
+	"psr/log": "^1.1"
+>>>>>>>  Fija version de manejadores de salida y actualiza libs
     },
     "require-dev": {
         "greenlion/php-sql-parser": "@dev",
