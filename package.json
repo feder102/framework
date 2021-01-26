@@ -7,6 +7,7 @@
   "author": "enfoqueNativo <rdalinger@siu.edu.ar>",
   "private": false,
   "dependencies": {
+    "@highlightjs/cdn-assets": "^10.5.0",
     "ckeditor4": "4.15",
     "jquery": "3.5",
     "jquery-migrate": "3.2",
